@@ -48,6 +48,9 @@ If you do these, trust me you have earned your first wins, many wins without kno
 
 By the time you have done the 12 things above, you're sure to have a strong start. Always remember that there are many problems to solve and sections to own, you will have a fair idea of the things that interest you the most or where you can make the whole system better, then slot in there. 
 
+### Side Note - Why these?
+Who we work with and what we work on are the most important things for us. Money is very important to us, that is why we work on Bitcoin, the people we work with are important to us that is why who you are is very important to us, our system is greater than any individual and frankly we wouldn't want to spend time dealing with a people issue, our time is better spent working on important problems with people we love and respect.
+
 ### Performance Reviews Engineering Performance Reviews will measure 
 
 Engineering performance reviews are indexed for the following which will be mostly 60% peer reviews and 40% managerial reviews. This is because you work more closely with your peers from your team and other teams and they have a genuine say about how much contribution you make to the team. Think of a football team, every player on the pitch knows who makes life easier or more difficult for them on the pitch, are you a player your teammates always feel energized to have on the pitch or not? 
