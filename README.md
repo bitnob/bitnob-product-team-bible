@@ -16,11 +16,42 @@ Peer programming is the life-blood of engineering at Bitnob. In the early days w
 Engineering collaborates with operations, marketing and the customer experience department to build products, this respect and willingness to listen to and take feedback from other departments has always resulted in much better outputs, anytime we strayed from this, engineering flopped. Collaborate, be useful and helpful to everyone.
 
 ## 4. Impact
-How impactful is this thing you're working on? What optimizations can you make that increases the efficiency of the system? Is this going to improve our processes? How much time does it save us? Software is meant to solve problems, be clear about what your end goal is. Importantly, document your wins as often as you can, on the bad days, reading them is something you can hold on to to know that you're great but even the best have their bad days. 
+How impactful is this thing you're working on? What optimizations can you make that increases the efficiency of the system? Is this going to improve our processes? How much time does it save us? Software is meant to solve problems, be clear about what your end goal is. Importantly, document your wins as often as you can, on the bad days, reading them is something 
+you can hold on to to know that you're great but even the best have their bad days. 
+
+
+### Things to do as a new engineer to make your integration easier in order for you to get your first quick win
+
+We are eager to have you get your quick win. Quick wins helps you gain confidence and a rapid succession of quick wins helps you settle in faster and does a lot of good to your confidence. Finding yourself in Bitnob means you are one of the best engineers around, therefore our goal is to quickly see you get that first smile!
+Here are do's and don'ts to get a quick win.
+
+1. In your first week, join as many meetings as you can and have fun. Don't stress yourself no one is having any wild expectations of you to dive in.
+2. Leave your videos on for all your meetings
+3. Ask for an intercom account, observe all the conversations the customer experience team has with customers
+4. Read through the conversations, you will find a lot of useful conversations that could provide insights into whatever we're messing up with or how certain issues are resolved.
+5. If you can be brave enough to request to answer your some support questions under guidance, it will do you a lot of good
+6. A lot on customer experience because we optimize to please the customer regardless of your role, historically the most respected engineers in Bitnob are those who resolve customer issues.
+7. Notice we haven't spoken about code, don't bother writing any code too early. Join as many peer programming sessions as much as you can and ask questions.
+8. Someone will be on hand to spend time with you onboarding you on the codebase or figma to ensure you're properly set up
+9. Ask for any SOP documents that can help you
+10. Read our values 1000 times. Yes do this. Please sir/ma.
+11. Some people have a documented "How to work with me" you can read, ask in the general channel for who has one you can read, Bernard always has one, start there lol.
+12. Notes - Take notes like a crazy person, scribble anything you can. Don't depend on your memory, this notes will be your bedrock. 
+
+If you do these, trust me you have earned your first wins, many wins without knowing. You don't need to write a line of code to earn those wins. Code is just an output in our system, interconnection and finding a place in the system is the most important thing.
+
+#### Don't
+1. Scoff at anyone's work even if you think it can be improved, in fact best to hold yourself from saying that too early. Wisdom is profitable to direct, take note of what you can or suggest to improve for later.
+2. Assume you can skip doing support work or spending time in operations meetings and succeeding as an engineer, we have no product managers, no one will do all the task breakdown work for you.
+3. Be unavailable without any form of communication
+4. Lie, don't lie even if you ever feel the need to. If you feel the urge to remind yourself that no one is gonna pick up a cane to beat you, if you do lie, that will be the first of many. Resist the urge.
+
+By the time you have done the 12 things above, you're sure to have a strong start. Always remember that there are many problems to solve and sections to own, you will have a fair idea of the things that interest you the most or where you can make the whole system better, then slot in there. 
 
 ### Performance Reviews Engineering Performance Reviews will measure 
 
 Engineering performance reviews are indexed for the following which will be mostly 60% peer reviews and 40% managerial reviews. This is because you work more closely with your peers from your team and other teams and they have a genuine say about how much contribution you make to the team. Think of a football team, every player on the pitch knows who makes life easier or more difficult for them on the pitch, are you a player your teammates always feel energized to have on the pitch or not? 
+Most company systems will make you optimize to please management, our system optimizes for you to earn the respect of your peers because there's no "manager" here[no ones job is just to manage people], everyone works as a peer.
 
 ### **1. Autonomy Index**
 
