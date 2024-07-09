@@ -30,7 +30,7 @@ Here are do's and don'ts to get a quick win.
 3. Ask for an intercom account, observe all the conversations the customer experience team has with customers
 4. Read through the conversations, you will find a lot of useful conversations that could provide insights into whatever we're messing up with or how certain issues are resolved.
 5. If you can be brave enough to request to answer your some support questions under guidance, it will do you a lot of good
-6. A lot on customer experience because we optimize to please the customer regardless of your role, historically the most respected engineers in Bitnob are those who resolve customer issues.
+6. We focus a lot on customer experience because we optimize to please the customer regardless of our roles, historically the most respected engineers in Bitnob are those who resolve customer issues.
 7. Notice we haven't spoken about code, don't bother writing any code too early. Join as many peer programming sessions as much as you can and ask questions.
 8. Someone will be on hand to spend time with you onboarding you on the codebase or figma to ensure you're properly set up
 9. Ask for any SOP documents that can help you
@@ -84,6 +84,7 @@ Most company systems will make you optimize to please management, our system opt
 - **Moderate Performance**: Occasionally helps team members, participates in knowledge sharing, contributes to team initiatives as required.
 - **Needs Improvement**: Rarely assists team members, limited participation in knowledge sharing, minimal involvement in team initiatives.
 
-
+### Important read on engineering progression in Bitnob 
+https://bitnob.notion.site/Bitnob-Engineering-Progression-Framework-7fdb39a542584d999dcb293499daa52f 
 
 
